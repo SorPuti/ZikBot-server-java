@@ -1,6 +1,6 @@
 # ZikBot-server-java
 
-## Manve Dependency:
+## Maven Dependency:
 ```maven
 <dependency>
  <artifactId>ZikBot-server-java</artifactId>
