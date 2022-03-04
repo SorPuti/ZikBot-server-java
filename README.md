@@ -1,3 +1,10 @@
 # ZikBot-server-java
 
-[![Maven Package](https://github.com/SorPuti/ZikBot-server-java/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/SorPuti/ZikBot-server-java/actions/workflows/maven-publish.yml)
+## Manve Dependency:
+```maven
+<dependency>
+ <artifactId>ZikBot-server-java</artifactId>
+ <groupId>br.com.puti.github.zik.client</groupId>
+ <version>0.0.1-SNAPSHOT</version>
+</dependency>
+```
